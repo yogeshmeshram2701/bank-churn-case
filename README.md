@@ -80,7 +80,7 @@ The product-count "cliff" pattern holds in every country, but Germany runs rough
 SQL (SQLite), DB Browser for SQLite for querying and exploration
 
 ## Files in This Repo
-- `queries.sql` — all 9 queries, commented with the business question each answers
+- `bank_churn_analysis.sql` — all 9 queries, commented with the business question each answers
 - `README.md` — this write-up
 
 ## How to Reproduce
