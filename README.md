@@ -86,7 +86,7 @@ SQL (SQLite), DB Browser for SQLite for querying and exploration
 ## How to Reproduce
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 2. Open `Churn_Modelling.csv` in DB Browser for SQLite (or any SQL tool) as a table named `Churn_Modelling`
-3. Run the queries in `queries.sql`
+3. Run the queries in `bank_churn_analysis.sql`
 
 ## About This Project
 Built as a business analyst portfolio project to demonstrate hypothesis-driven SQL analysis — testing assumptions (including wrong ones) rather than mining for whatever pattern appears, and translating raw churn data into segment-specific, actionable recommendations.
